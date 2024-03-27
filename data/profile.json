@@ -1,0 +1,104 @@
+{
+  "name": "Guilherme Moraes",
+  "photo": "https://avatars.githubusercontent.com/u/106408565?v=4",
+  "job": "Developer / Data Analyst",
+  "location": "Porto Alegre, RS",
+  "phone": "(51) 99577-8981",
+  "email": "guilhermevsmoraes@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "data/imgs/mysql2.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      }
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Capacidade de fácil aprendizado"
+    ]
+  },
+  "languages": [
+    "Português (Nativo)",
+    "Inglês (Avançado)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de um Data Lake Financeiro para análise de dados e extração de insights",
+      "url": "https://github.com/GuilhermeMoraes4/Data-Lake-Financeiro",
+      "github": true
+    },
+    {
+      "name": "Criação de um ChatBot para atendimento e suporte baseado no ChatGPT",
+      "url": "https://github.com/GuilhermeMoraes4/Simulador-ChatGPT",
+      "github": true
+    },
+    {
+      "name": "Criação de um sistema de gerenciamento de projetos com Python e Django",
+      "url": "https://github.com/GuilhermeMoraes4/Gerenciador-Projetos",
+      "github": true
+    }
+  ],
+  "dashs": [
+    {
+      "name": "Dashboard de Compras para análise de fornecedores, tempos de entrega e custos",
+      "url": "https://encr.pw/dBppM",
+      "powerbi": true
+    },
+    {
+      "name": "Dashboard de Estoque para controle de produtos e movimentações",
+      "url": "https://l1nq.com/CAo86",
+      "powerbi": true
+    },
+    {
+      "name": "Dashboard Financeiro para controle de fluxo de caixa",
+      "url": "https://l1nq.com/ailTD",
+      "powerbi": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Back-end / Freelancer",
+      "period": "2023 - até o momento",
+      "description": "Experiência enriquecedora, onde pude por em prática toda bagagem técnica adquirida ao longo dos anos. Atuei em diversos projetos, desde pequenos scripts até aplicações completas."
+    },
+    {
+      "name": "Analista de Dados Pleno / Andrade Maia Advogados",
+      "period": "2023 - até o momento",
+      "description": "Experiência na qual tive contato com profissionais excepcionais, conseguindo contribuir diretamente no time de inovação e desenvolvimento. Durante minha atuação, aprimorei habilidades em análise de dados utilizando diversas ferramentas e linguagens, e também pude me aprimorar no desenvolvimento de aplicações."
+    },
+    {
+      "name": "Analista de Dados / Safeweb Segurança da Informação",
+      "period": "2023 - 2023",
+      "description": "Experiência enriquecedora, envolvendo a elaboração de Dashboards, automações e análises de dados. Trabalhei em um ambiente onde pude colaborar com uma equipe talentosa e diversificada."
+    },
+    {
+      "name": "Estagiário / Dell Technologies",
+      "period": "2021 - 2023",
+      "description": "Anos incríveis ao lado de ótimos profissionais, tendo contato com pessoas de todo o mundo, sendo introduzido ao mundo da análise de dados e programação."
+    }
+  ]
+}
