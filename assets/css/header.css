@@ -6,7 +6,6 @@
 }
 
 .header::after {
-    content: '';
     display: inline-block;
     position: absolute;
     top: 1rem;
